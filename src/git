@@ -1,0 +1,12 @@
+#!/bin/sh
+case "$*" in
+	"status --porcelain")
+		echo modified
+	;;
+	"-c log.showsignature=false show -s --format=%H:%ct")
+		echo 368e2a2248b855f16a0c4e8f3593b3351889c35f:1656651074
+	;;
+	*)
+		exit 1
+	;;
+esac

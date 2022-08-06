@@ -8,7 +8,7 @@
 
 ## 赛题
 
-附件：`pokemongo.zip`[百度盘](https://pan.baidu.com/s/13HPccqRbvr9CjOxdCPV3xQ)，提取码`GAME`
+附件：`pokemongo.zip`[百度网盘](https://pan.baidu.com/s/13HPccqRbvr9CjOxdCPV3xQ)，提取码`GAME`，`SHA256: b9486aab59fa04ab7d422f12e71c030cb594c9aacf2f701cdbcc2810a6792ed0`
 
 ## 题解
 
